@@ -1,0 +1,6 @@
+{
+  "name": "Street Gospel Studio",
+  "description": "Multi-track AI recording studio with pitch-correcting vocals, layering, and featured old school blues/gospel AI verses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
